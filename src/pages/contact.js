@@ -8,7 +8,7 @@ const ContactPage = () => {
       <p>Jason Nelemans <br/>
         jasonnelemans@hotmail.com <br/>
         Amsterdam, the Netherlands. <br/>
-        <Link to="https://www.linkedin.com/in/jasonnelemans/"> Find me on LinkedIn. </Link>
+        <a href="https://www.linkedin.com/in/jasonnelemans/" target="_blank"> Find me on LinkedIn. </a>
       </p>
     </div>
   )

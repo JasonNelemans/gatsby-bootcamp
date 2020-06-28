@@ -12,3 +12,5 @@ const IndexPage = () => {
 } 
 
 export default IndexPage;
+
+//Time stamp 35:56, on to lesson 4. 
