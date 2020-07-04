@@ -13,6 +13,8 @@ This is a promise, that I will put in all of my being into my passion and ventur
 but it's there, waiting for me on the horizon. I will get there. I will persevere. And once it's there, 
 it's going to come flooding. 
 
+Sticking to that promise.
+
 Continue at: 2:52:11, lesson #14. 
 */
 
