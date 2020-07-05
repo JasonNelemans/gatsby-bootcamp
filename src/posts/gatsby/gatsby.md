@@ -5,7 +5,7 @@ date: "2020-30-6"
 
 On a new bootcamp!
 
-![Grass](./grass.jpeg)
+![Grass](./grass.png)
 
 ## Topics Covered
 
