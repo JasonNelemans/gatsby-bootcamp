@@ -5,12 +5,21 @@
  */
 
 module.exports = {
-  /* Your site config here */
+  /* Your site config here 
+  Why does it find vulnerabilities and how to resolve?
+  */
   siteMetadata: {
     title: "Full-stack Bootcamp!",
     author: 'Jason Nelemans'
   },
   plugins: [
+    {
+      resolve: 'gatsby-source-contentful',
+      options: {
+        spaceId: process.env.CONTENTFUL_SPACE_ID,
+        accessToken: process.env.CONTENTFUL_ACCESS_TOKEN
+      }
+    },
     'gatsby-plugin-sass',
     {
       resolve: 'gatsby-source-filesystem',
