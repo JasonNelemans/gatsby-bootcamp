@@ -9,7 +9,7 @@ module.exports = {
   Why does it find vulnerabilities and how to resolve?
   */
   siteMetadata: {
-    title: "Full-stack Bootcamp!",
+    title: "Full-stack Bootcamp",
     author: 'Jason Nelemans'
   },
   plugins: [
