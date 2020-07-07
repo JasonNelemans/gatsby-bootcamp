@@ -12,7 +12,8 @@ module.exports = {
     title: "Full-stack Bootcamp!",
     author: 'Jason Nelemans'
   },
-  plugins: [
+  plugins: [,
+    'gatsby-plugin-react-helmet',
     {
       resolve: 'gatsby-source-contentful',
       options: {
