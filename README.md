@@ -2,4 +2,6 @@
 
 This project was to better understand how Gatsby together with Contentful works.
 
-![homepage](./images/gatsby-bootcamp-home.png)
+Now I am able to dynamically post and fetch data from a CMS to render on my static page.
+
+This will be helpful for future static projects.
