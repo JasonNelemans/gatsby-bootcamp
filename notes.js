@@ -14,7 +14,5 @@ but it's there, waiting for me on the horizon. I will get there. I will persever
 it's going to come flooding. 
 
 Sticking to that promise.
-
-Continue at: 4:10:20, lesson #19. 
+ 
 */
-
