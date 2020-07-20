@@ -14,5 +14,10 @@ but it's there, waiting for me on the horizon. I will get there. I will persever
 it's going to come flooding. 
 
 Sticking to that promise.
+
+The way to save env variables is to place them in .env after installing 
+npm i --save-dev env-cmd. 
+Then change the develop script to include the .env file, but don't forget to 
+include: -f 
  
 */
